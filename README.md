@@ -8,6 +8,9 @@
 - **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Demo
+
+https://gupshup-hebn.onrender.com
+
 ![group+notif](https://github.com/HemaBharsat/GupShup/assets/121272688/367b8da0-27a1-4b03-a9ab-b2855067c691)
 
 ## 🛠Project Setup
